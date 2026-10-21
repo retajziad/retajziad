@@ -13,17 +13,6 @@ My practice spans user research, product thinking, interaction design, prototypi
 - **Creative technology** — exploring meaningful applications of emerging technology in everyday life
 - **Technical foundations** — software engineering, HTML, CSS, JavaScript, and foundational SwiftUI learning
 
-## Selected repositories
-
-These repositories reflect earlier academic work and practical exercises. They are documented as coursework or learning projects, not commercial products.
-
-| Project | Focus | Material |
-| --- | --- | --- |
-| [Workout Application](https://github.com/retajziad/Project-WORKOUT-APPLICATION) | UI design | Design document and final visual asset |
-| [E-commerce Application](https://github.com/retajziad/Project-E-commerce-Application-) | Requirements engineering | Academic requirements document |
-| [E-commerce Website](https://github.com/retajziad/Project-E-commerce-Website-) | Project management | Coursework and prototype documentation |
-| [Student Grade](https://github.com/retajziad/Student-Grade/tree/Tests) | Java / unit testing | Source code and JUnit tests on the `Tests` branch |
-
 ## My approach
 
 **Understand the context → Define the problem → Prototype → Test → Refine.**
