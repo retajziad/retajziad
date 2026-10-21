@@ -11,7 +11,6 @@ My practice spans user research, product thinking, interaction design, prototypi
 - **Product & experience design** — research, user journeys, interaction design, usability testing, and prototyping
 - **Design systems & delivery** — component-based interfaces, accessible experiences, and developer handoff
 - **Creative technology** — exploring meaningful applications of emerging technology in everyday life
-- **Technical foundations** — software engineering, HTML, CSS, JavaScript, and foundational SwiftUI learning
 
 ## My approach
 
